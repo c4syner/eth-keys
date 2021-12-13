@@ -24,7 +24,6 @@ pip install sounddevice
     u_use_bip_wl = 0
     u_encrypt_seed = 1
 
-    #LITERALS
     u_file = "seed.txt"
     u_entropy = 215
 ```
