@@ -9,5 +9,5 @@ if __name__ == "__main__":
     print("Blockchain Industry Standard:")
     print(p_entropy(2048, 12))
     print("Default eth-keys wallet:")
-    print(p_entropy(94, 500))
+    print(p_entropy(94, 25))
     
